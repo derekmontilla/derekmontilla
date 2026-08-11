@@ -1,16 +1,16 @@
-## Hi there 👋
+# Derek Montilla
 
-<!--
-**derekmontilla/derekmontilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity & Network Management student at Weber State University.
+A.S. in Computer Science & Information Systems, Salt Lake Community College.
 
-Here are some ideas to get you started:
+I work with network traffic analysis, vulnerability scanning, Windows and Linux
+hardening, and automation with Bash and Python. Currently building toward a
+security operations role.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Based in Utah. Bilingual English / Spanish.
+
+**Working with:** Wireshark · Nmap · Bash · Python · Ubuntu · Windows Server · Oracle SQL · Cisco Packet Tracer
+
+**Currently learning:** SIEM fundamentals, CompTIA Security+
+
+📫 derekjmontilla@gmail.com · [LinkedIn](https://linkedin.com/in/derek-montilla-77719b375)
